@@ -1,6 +1,6 @@
 # screenshooter
 
-Create screenshot of the focused window. Result screenshot image is an optimized PNG file on your Desktop.
+Take a screenshot of the focused window. Result screenshot image is an optimized PNG file on your Desktop.
 
 ## usage
 
